@@ -19,7 +19,7 @@
 " 的地址已经复制到剪贴板"=" a été copié";
 "- 任务完成 -"="- TERMINÉ -";
 "- 无更多软件包 -"="- Plus de paquet :)";
-"- 正在加载 -"="- Téléchargement en cours -";
+"- 正在加载 -"="- Téléchargement -";
 "- 正在执行 -"="- EN COURS -";
 "--> Begin Section |text_inherit_saying|错误|\n尝试下载卡片内容失败了。\n---> End Section"="--> Begin Section |text_inherit_saying|Erreur|\nN'a pas pu télécharger le contenu.\n---> End Section";
 "APT软件"="APT Standard Software";
