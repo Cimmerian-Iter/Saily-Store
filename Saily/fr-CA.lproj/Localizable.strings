@@ -19,7 +19,7 @@
 " 的地址已经复制到剪贴板"=" a été copié";
 "- 任务完成 -"="- TERMINÉ -";
 "- 无更多软件包 -"="- Plus de paquet :)";
-"- 正在加载 -"="- Téléchargement en cours -";
+"- 正在加载 -"="- Téléchargement -";
 "- 正在执行 -"="- EN COURS -";
 "--> Begin Section |text_inherit_saying|错误|\n尝试下载卡片内容失败了。\n---> End Section"="--> Begin Section |text_inherit_saying|Erreur|\nN'a pas pu télécharger le contenu.\n---> End Section";
 "APT软件"="APT Standard Software";
@@ -29,7 +29,7 @@
 "世界"="Mondiale";
 "了解"="Compris";
 "交互界面"="Interface de l'utilisateur";
-"今日精选"="En vedette aujourd'hui";
+"今日精选"="En vedette";
 "你可真是个厉害的小可爱"="wow t'est trop mignon";
 "你已经成功的移除了这个新闻源"="Vous avez supprimé la source de news avec succès";
 "你已经成功的移除了这个软件源"="Vous avez retiré cette source de paquets avec succès";
@@ -104,7 +104,7 @@
 "提示"="Conseil:";
 "插件依赖的安装可能会出现问题，请在安装前仔细检查。"="Nous allons désactiver l'analyse des dépendances car nous avons détecté la présence de rootless jailbreak.";
 "搜索"="Chercher";
-"搜索中心"="Centre de recherche";
+"搜索中心"="Rechercher";
 "操作队列"="OPERATIONS";
 "操作队列信息校验失败"="Les informations des opérations en liste d'attente ne correspondent pas";
 "收起 ▲"="Cacher ▲";
